@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.imgDiv{width: 90%; height: 150px;}
+a.title{
+    background: #cac5c5;
+    width: 100%;
+    float: left;
+    color: #000000;
+    padding: 10px;
+    font-weight: 600;
+}
